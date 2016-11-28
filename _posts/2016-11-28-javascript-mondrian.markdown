@@ -4,7 +4,9 @@ title: Mondrian in Javascript
 categories: javascript react web
 ---
 
-I've been playing with [React](https://facebook.github.io/react/) and built a demo that allows the user to create artwork in the vein of [Piet Mondrian](https://en.wikipedia.org/wiki/Piet_Mondrian). Try it out!
+<h3>Note: this post is still in "draft" status as I finish setting up this blog.</h3>
+
+I've been playing with [React](https://facebook.github.io/react/) and built a demo that allows the user to create artwork in the vein of [Piet Mondrian](https://en.wikipedia.org/wiki/Piet_Mondrian). Click below to try it out!
 
 <div id="mondrian-root-container" style="display: flex; justify-content: center; padding: 20px">
   <div id="mondrian-root"></div>
