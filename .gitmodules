@@ -1,0 +1,3 @@
+[submodule "lib/mondrian"]
+	path = lib/mondrian
+	url = https://github.com/kerrickstaley/mondrian.git
