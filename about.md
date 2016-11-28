@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+<img src="/images/profile_picture.jpg" width="250" style="float: right; margin: 0px 40px" />
+Hi! I'm Kerrick.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+I live in [Oakland, CA](https://en.wikipedia.org/wiki/Oakland,_California) and do software engineering at [Lyft](https://www.lyft.com/). I spend a lot of time learning Mandarin, rock climbing, and thinking about machine learning, data science, and UX design.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
