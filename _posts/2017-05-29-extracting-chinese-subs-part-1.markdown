@@ -105,21 +105,8 @@ The `'Lo'` here is one of the [General Categories that Unicode assigns to charac
 
 There are two mistakes here: a spurious 二 character on the front, and a mismatched character in the middle (that 逯 should be 这). Still, not bad!
 
-At this point I pulled a lot more frames from the video and got to work iterating on my preprocessing algorithm. I put the correct transcription in the filename of each test frame so I could automatically run tests.
 
-{% highlight shell_session %}
-$ ls test_frames/ep1/
-test_frame_2950__你听着.png
-test_frame_2975__你听着.png
-test_frame_3000__我已经厌倦了.png
-test_frame_3025__跟你们玩这种无聊的游戏.png
-test_frame_3050__跟你们玩这种无聊的游戏.png
-test_frame_3075__多么地无趣.png
-test_frame_3125__多么地幼稚.png
-...
-{% endhighlight %}
-
-In Part 2 (and maybe Part 3?) of this post series I'll discuss how we can use some more advanced techniques to perfect the above example and also handle cases where extracting the text isn't so straightforward. If you can't wait until then, the [code is on GitHub](https://github.com/kerrickstaley/extracting-chinese-subs/tree/master).
+That's all for now, but in Part 2 (and maybe Part 3?) of this post series I'll discuss how we can use some more advanced techniques to perfect the above example and also handle cases where extracting the text isn't so straightforward. If you can't wait until then, the [code is on GitHub](https://github.com/kerrickstaley/extracting-chinese-subs/tree/master).
 
 If you have any comments about this post, [join the discussion on Hacker News](https://news.ycombinator.com/item?id=14440849), and if you enjoyed it, please upvote on HN!
 
