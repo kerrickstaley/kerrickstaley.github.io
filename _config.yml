@@ -24,6 +24,9 @@ permalink: /:year/:month/:day/:title
 github_username:  kerrickstaley
 linkedin_username:  kerrick-staley
 
+# Enable Google Analytics
+google_analytics: UA-100131146-1
+
 # Build settings
 markdown: kramdown
 theme: minima
