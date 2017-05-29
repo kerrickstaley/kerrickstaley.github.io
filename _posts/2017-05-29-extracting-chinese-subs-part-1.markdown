@@ -121,3 +121,5 @@ test_frame_3125__多么地幼稚.png
 
 In Part 2 (and maybe Part 3?) of this post series I'll discuss how we can use some more advanced techniques to perfect the above example and also handle cases where extracting the text isn't so straightforward. If you can't wait until then, the [code is on GitHub](https://github.com/kerrickstaley/extracting-chinese-subs/tree/master).
 
+If you have any comments about this post, [join the discussion on Hacker News](https://news.ycombinator.com/item?id=14440849), and if you enjoyed it, please upvote on HN!
+
