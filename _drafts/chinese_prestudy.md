@@ -1,3 +1,61 @@
+# Reading a Chinese novel with the prestudy technique
+
+The novel **[The Three Body Problem][(https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel))** (三体 [Sǎn Tǐ] in
+Chinese) has enjoyed a modicum of fame in the sci-fi world. The English translation won the [2015 Hugo Award for Best
+Novel](http://www.thehugoawards.org/hugo-history/2015-hugo-awards/) and to date it is the only novel in translation
+to have done so. [Barack Obama cited the book as one of his favorites](
+https://www.nytimes.com/2017/01/16/books/transcript-president-obama-on-what-books-mean-to-him.html), and [Amazon was
+recently reported to be eyeing film rights to the book](
+https://www.independent.co.uk/arts-entertainment/tv/news/the-three-body-problem-tv-adaptation-show-amazon-a8278066.html)
+in a bid to boost their original content and challenge Netflix—at a cost of a cool $1 billion USD.
+
+Recently, I've been trying to read **The Three Body Problem** in the original Chinese after a friend (hi [Tommy](
+https://medium.com/@ttommyliu)) read both and said that he found the English version a little less fluid
+(with translations there's always a tension between matching the original meaning and producing something that
+"sounds right" in the target language). I've read one chapter (13 pages) so far, which isn't much but took a fair amount
+of effort given how limited my Chinese still is.
+
+This post is mostly **not** about the book itself, but the approach I'm taking in reading it, and the software tools I
+created to help (which you can now download!). You'll find three sections below:
+* **Prestudy technique for reading new texts** is about how I'm reading **The Three Body Problem** and how you can
+    apply the same method to books, news articles, TV shows, or anything else you want to read.
+* **Conclusion and musings** is what the title says it is.
+* **Afterword for nerds** is about the software components I'm open-sourcing as part of this project, which you can
+    re-use in your own Chinese learning adventures.
+
+
+## Prestudy technique for reading new texts
+Most Chinese novels, **The Three Body Problem** included, are well above my reading level, especially in terms of
+vocabulary. I know about 1200 Chinese words, but generally a vocab size of 2500 is recommended before even attempting
+to read novels, and 5000 words is best for a comfortable reading experience. If you're curious, these figures correspond
+to levels 4–6 of the [Hànyǔ Shuǐpíng Kǎoshì or HSK (汉语水平考试)](
+https://en.wikipedia.org/wiki/Hanyu_Shuiping_Kaoshi), a Chinese proficiency test produced by the mainland
+Chinese government.
+
+One way to deal with this vocab issue to read texts, aimed at learners, which use simpler language. I've done this. But
+it's no fun! I want to be able to consume real media intended for real Chinese speakers. Not dumbed-down articles that
+probably aren't very relevant or interesting anyway.
+
+Another option is to soldier through something you actually do want to read, consulting a dictionary when you hit
+unfamiliar words. This works, but it's really tedious and sucks the enjoyment out of the process.
+
+The approach I hit on, which I've termed *prestudy*, is similar to that second option, but instead of learning new words
+as you go, you learn them in a batch before you read. After that, you can simply read the book/article with little or
+no dictionary involvement. This has a couple of advantages:
+* the reading part (although not necessarily the prestudying part) becomes enjoyable
+* minimizing the dictionary crutch makes you better at recalling words in context and reading confidently
+* using a flashcard app like Anki, you can fit your prestudy into your spare time throughout the day (time spent on the
+    toilet or waiting for a train to arrive or a meeting to start is perfect)
+* again using Anki, you can retain the new vocabulary you learn so you don't have to look it up again in the next
+    book/article (or later in the same book!)
+* you can limit your study to common words (whereas if you look things up in a dictionary, you don't have a sense if
+    the word is useful to know in general or only in this context)
+
+TODO: paragraph on how this is similar to textbook
+
+TODO: paragraph outlining how this works in practice: 3k word limit, 2 pages at a time (prestudy ~30 words)
+
+## Begin old content
 TL;DR: I'm open-sourcing a tool I wrote that can help you read books and news articles in Chinese while expanding your
 vocabulary. It works really well if your vocabulary is around HSK 4 (1500 words).  Click here to jump past the backstory
 TODO link.
