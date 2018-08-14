@@ -15,10 +15,10 @@ https://www.independent.co.uk/arts-entertainment/tv/news/the-three-body-problem-
 
 One of my friends (hi [Tommy](https://medium.com/@ttommyliu)) recommended **The Three Body Problem** to me, and he also mentioned that the book reads a little more fluidly in the original Chinese. So I decided to try reading the Chinese version. So far, I'm 45 pages in and not totally hating it, which is a start, right?
 
-## "Prestudy" Technique
+## The "Prestudy" Technique
 The technique I'm using to progress through the book I call "prestudy". Here's how it works:
 1. You come up with a list of vocabulary words you want to learn. Using the 3500 most common words works pretty well.
-2. You take the first few (3 is good) pages of the book you're reading, and you find out which words from (1) are in those pages.
+2. You take the first 3 or so pages of the book you're reading, and you find out which words from (1) are in those pages.
 3. You generate [Anki](https://apps.ankiweb.net/) flashcards for all the words from (2) that you don't already have flashcards for.
 4. You study the flashcards and learn the words.
 5. You read the pages. If you encounter a word you don't know, you look it up.
@@ -48,6 +48,12 @@ With the exception of genanki, none of these projects is in a very contributor-f
 
 ## Color Commentary
 Learning this way still demands a *lot* of perserverence, bordering on masochism, but that's Chinese. I do feel like I'm developing proficiency faster than any point other than when I was taking 5-credit-hour Chinese classes every semester in undergrad.
+
+Improving my reading has also lifted my listening and speaking abilities, even though I haven't spent much time on those areas recently.
+
+The biggest pain at this point is that I still have to stop and look up a word every 3 or 4 sentences. I usually use the OCR feature in the [Hanping Chinese Camera](https://play.google.com/store/apps/details?id=com.embermitre.hanping.app.reader.pro) app, and on a jostling train (where I usually read) this gets frustrating fast. The worst parts are long, poetic descriptions of natural scenery; Chinese has a large repertoire of words specific to this purpose.
+
+I'm working on a solution for this too: I'm going to make the tool generate a cheatsheet PDF of all words that are too obscure/advanced to be worth studying with flashcards.
 
 
 This post is mostly **not** about the book itself, but the approach I'm taking in reading it, and the software tools I
