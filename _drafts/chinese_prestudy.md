@@ -16,13 +16,13 @@ Chinese) is moderately famous in sci-fi circles. The English translation won the
 Novel](http://www.thehugoawards.org/hugo-history/2015-hugo-awards/) and to date it is the only novel in translation
 to have done so. [It's one of Barack Obama's favorite books](
 https://www.nytimes.com/2017/01/16/books/transcript-president-obama-on-what-books-mean-to-him.html). And [Amazon was reported in May 2018 to be eyeing film rights to the book](
-https://www.independent.co.uk/arts-entertainment/tv/news/the-three-body-problem-tv-adaptation-show-amazon-a8278066.html) for $1 billion USD, in a bid to boost Amazon Prime Video's original content (no word on whether that actually happened).
+https://www.independent.co.uk/arts-entertainment/tv/news/the-three-body-problem-tv-adaptation-show-amazon-a8278066.html) for $1 billion USD, in a bid to boost Amazon Prime Video's original content (no word on whether that did happen).
 
 <p style="display: flex; justify-content: center">
 <img src="/images/chinese-prestudy/san_ti_cover.png" height="350px">
 </p>
 
-One of my friends (hi [Tommy](https://medium.com/@ttommyliu)!) recommended *The Three Body Problem* to me, and he also mentioned that the book reads a little more fluidly in the original Chinese. So I decided to try reading the Chinese version. So far, I'm 45 pages in and not totally hating it, which is a start, right?
+One of my friends (hi [Tommy](https://medium.com/@ttommyliu)!) recommended *The Three Body Problem* to me, and he also mentioned that the book reads a little more fluidly in the original Chinese. So I decided to try reading the Chinese version. So far, I'm 45 pages in and actually kinda enjoying it. Which is a start, right?
 
 ## The "Prestudy" Technique
 The technique I'm using to progress through the book I call "prestudy". Here's how it works:
