@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Reading a Chinese novel with the prestudy technique
-categories: chinese learning anki python reading
+title: "Prestudy": Learning Chinese through Reading
+categories: chinese learning anki python reading prestudy
 ---
 
 In May 2017, I sat and passed the [Hanyu Shuiping Kaoshi](http://www.chinesetest.cn) Level 4. The HSK is a Mandarin Chinese proficency test similar to the TOEFL, and passing Level 4 means that one can ["discuss a relatively wide range of topics in Chinese and [is] capable of communicating with Chinese speakers at a high standard"](http://www.chinesetest.cn/gonewcontent.do?id=677487). Just one level higher, at Level 5, you're supposedly able to "read Chinese newspapers and magazines, [and] watch Chinese films".
