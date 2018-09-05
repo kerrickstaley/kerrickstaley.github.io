@@ -81,7 +81,15 @@ All the code behind this is open-source, and it's split across several component
 
 With the exception of genanki, none of these projects is in a very contributor-friendly state. Most of their code isn't very readable or documented and could use more unit tests. Still, I'd encourage interested persons to dive in and make contributions; I'll try my best to help you out and make the code more hackable as we go.
 
-## Color Commentary
+This project also leans heavily on a lot of great open-source projects:
+* [CC-CEDICT](https://cc-cedict.org/wiki/): A free (Creative Commons) Chinese/English dictionary.
+* [Tatoeba](https://tatoeba.org/): Multilingual database of example sentences.
+* The [Hanyu Shuiping Kaoshi](http://www.chinesetest.cn/) vocab list.
+* [SUBTLEX-CH](http://crr.ugent.be/programs-data/subtitle-frequencies/subtlex-ch): List of Chinese words from most to least common (in spoken usage).
+* [jieba](https://github.com/fxsjy/jieba): Chinese word segmentation library.
+* [pypinyin](https://github.com/mozillazg/python-pinyin): Character-to-pinyin library.
+
+## Final Thoughts
 Learning this way still demands a *lot* of perseverence, bordering on masochism, but that's Chinese. On the bright side, I feel like I'm developing proficiency faster than any point other than when I was in undergrad taking Chinese classes 5 days a week.
 
 Reading better has also lifted my listening and speaking abilities, even though I haven't spent much time on those areas recently.
