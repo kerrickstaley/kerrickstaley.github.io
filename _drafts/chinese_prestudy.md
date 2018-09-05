@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Prestudy": Learning Chinese through Reading
+title: '"Prestudy": Learning Chinese through Reading'
 categories: chinese learning anki python reading prestudy
 ---
 
