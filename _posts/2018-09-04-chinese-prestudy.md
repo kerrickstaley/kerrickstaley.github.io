@@ -19,7 +19,7 @@ https://www.nytimes.com/2017/01/16/books/transcript-president-obama-on-what-book
 https://www.independent.co.uk/arts-entertainment/tv/news/the-three-body-problem-tv-adaptation-show-amazon-a8278066.html) for $1 billion USD, in a bid to boost Amazon Prime Video's original content (no word on whether that did happen).
 
 <p style="display: flex; justify-content: center">
-<img src="/images/chinese-prestudy/san_ti_cover.png" height="350px">
+<img src="/images/chinese-prestudy/san-ti-cover.png" height="350px">
 </p>
 
 One of my friends (hi [Tommy](https://medium.com/@ttommyliu)!) recommended *The Three Body Problem* to me, and he also mentioned that the book reads a little more fluidly in the original Chinese. And so I decided to try reading the Chinese version. So far, I'm 45 pages in and actually kinda enjoying it. Which is a start, right?
