@@ -40,7 +40,12 @@ The technique also works pretty well for newspaper articles and TV shows (for sh
 This is not a totally new idea. It's similar to many Chinese textbooks where each chapter presents a text passage and some related vocabulary. The difference is that you can make your own study guide, in the form of Anki flashcards, for anything you want to read.
 
 ## The Tool
-The tool that does all this is an Anki add-on which you can get [here](https://ankiweb.net/shared/info/882364911). You copy/paste in your text (so you'll need a PDF if it's a book), enter your target vocabulary size, and select which deck and tags you want to apply to the cards.
+The tool that does all this is an Anki add-on which you can get [here](https://ankiweb.net/shared/info/882364911). You copy/paste in your text (so you'll need a PDF if it's a book), enter your target vocabulary size, and select which deck and tags you want to apply to the cards:
+
+<img src="/images/chinese-prestudy/usage_1.png" height="350px">
+<img src="/images/chinese-prestudy/usage_2.png" height="350px">
+<img src="/images/chinese-prestudy/usage_3.png" height="350px">
+<img src="/images/chinese-prestudy/usage_4.png" height="350px">
 
 It's *only* compatible with the beta-channel Anki 2.1, not the stable-channel Anki 2.0. Sorry if this is a dealbreaker for you. I know some people are stuck on 2.0 because certain add-ons only support 2.0. If I have time and Anki 2.1 continues to be stuck in beta, I'll look at making a 2.0-compatible version.
 
