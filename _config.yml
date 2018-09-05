@@ -36,3 +36,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
+
+# Enable Disqus in Minima theme
+disqus:
+  shortname: kerrickstaley
