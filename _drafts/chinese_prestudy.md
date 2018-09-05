@@ -22,7 +22,7 @@ https://www.independent.co.uk/arts-entertainment/tv/news/the-three-body-problem-
 <img src="/images/chinese-prestudy/san_ti_cover.png" height="350px">
 </p>
 
-One of my friends (hi [Tommy](https://medium.com/@ttommyliu)!) recommended *The Three Body Problem* to me, and he also mentioned that the book reads a little more fluidly in the original Chinese. So I decided to try reading the Chinese version. So far, I'm 45 pages in and actually kinda enjoying it. Which is a start, right?
+One of my friends (hi [Tommy](https://medium.com/@ttommyliu)!) recommended *The Three Body Problem* to me, and he also mentioned that the book reads a little more fluidly in the original Chinese. And so I decided to try reading the Chinese version. So far, I'm 45 pages in and actually kinda enjoying it. Which is a start, right?
 
 ## The "Prestudy" Technique
 I call the method I'm using to read the book "prestudy". Here's how it works:
@@ -92,9 +92,9 @@ This project also leans heavily on a lot of great open-source projects:
 ## Final Thoughts
 Learning this way still demands a *lot* of perseverence, bordering on masochism, but that's Chinese. On the bright side, I feel like I'm developing proficiency faster than any point other than when I was in undergrad taking Chinese classes 5 days a week.
 
-Reading better has also lifted my listening and speaking abilities, even though I haven't spent much time on those areas recently.
+Reading better has also lifted my listening and speaking abilities, even though I haven't spent much time on those recently.
 
-I still have to stop and look up a word every 3 or 4 sentences, which is a pain. I usually use the OCR feature in the [Hanping Chinese Camera](https://play.google.com/store/apps/details?id=com.embermitre.hanping.app.reader.pro) app, and on an unsteady train (where I normally read) this gets frustrating fast. I'm working on a solution for this too: a "cheatsheet" that lists all the advanced words so you don't have to study them with flashcards. But it's not done yet. (The worst parts are long, poetic descriptions of natural scenery; Chinese has a large repertoire of words specific to this purpose.)
+I still have to stop and look up a word every 3 or 4 sentences, which is a pain. I usually use the OCR feature in the [Hanping Chinese Camera](https://play.google.com/store/apps/details?id=com.embermitre.hanping.app.reader.pro) app, and on an unsteady train (where I normally read) this gets frustrating fast. I'm working on a solution for this too: a "cheatsheet" that lists all the advanced words so you don't have to study them with flashcards. But it's not done yet.
 
 I hope that you find this tool useful on your Chinese learning journey! Feel free to leave feedback on [GitHub's issue tracker](https://github.com/kerrickstaley/Chinese-Prestudy/issues) or by mail to <k@kerrickstaley.com>.
 
