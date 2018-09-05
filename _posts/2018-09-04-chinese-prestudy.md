@@ -96,5 +96,5 @@ Reading better has also lifted my listening and speaking abilities, even though 
 
 I still have to stop and look up a word every 3 or 4 sentences, which is a pain. I usually use the OCR feature in the [Hanping Chinese Camera](https://play.google.com/store/apps/details?id=com.embermitre.hanping.app.reader.pro) app, and on an unsteady train (where I normally read) this gets frustrating fast. I'm working on a solution for this too: a "cheatsheet" that lists all the advanced words so you don't have to study them with flashcards. But it's not done yet.
 
-I hope that you find this tool useful on your Chinese learning journey! Feel free to leave feedback on [GitHub's issue tracker](https://github.com/kerrickstaley/Chinese-Prestudy/issues) or by mail to <k@kerrickstaley.com>.
+I hope that you find this tool useful on your Chinese learning journey! Feel free to leave feedback on [GitHub's issue tracker](https://github.com/kerrickstaley/Chinese-Prestudy/issues) or by mail to <k@kerrickstaley.com>. Upvotes on [Hacker News](https://news.ycombinator.com/item?id=17914723) are also appreciated!
 
