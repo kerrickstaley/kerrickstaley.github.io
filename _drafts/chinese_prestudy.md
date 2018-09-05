@@ -25,7 +25,7 @@ https://www.independent.co.uk/arts-entertainment/tv/news/the-three-body-problem-
 One of my friends (hi [Tommy](https://medium.com/@ttommyliu)!) recommended *The Three Body Problem* to me, and he also mentioned that the book reads a little more fluidly in the original Chinese. So I decided to try reading the Chinese version. So far, I'm 45 pages in and actually kinda enjoying it. Which is a start, right?
 
 ## The "Prestudy" Technique
-The technique I'm using to progress through the book I call "prestudy". Here's how it works:
+I call the method I'm using to read the book "prestudy". Here's how it works:
 1. You come up with a list of vocabulary words you want to learn. Using the 3500 most common words works pretty well.
 2. You take the first 3 or so pages of the book you're reading, and you find out which words from (1) are in those pages.
 3. You generate [Anki](https://apps.ankiweb.net/) flashcards for all the words from (2) that you don't already have flashcards for.
