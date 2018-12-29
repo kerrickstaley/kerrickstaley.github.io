@@ -11,7 +11,7 @@ This is a little optimistic. A year ago I could barely bumble through a basic co
 This article is about some software I wrote, based on the [Anki flashcard app](https://apps.ankiweb.net/), to help me leapfrog from HSK 4 to reading a real Chinese book. If you're learning Chinese, you can download and use this software too! Fair warning, it's still a lot of work. Chinese is hard.
 
 ## The Three Body Problem
-The novel *<a href="https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)">The Three Body Problem</a>* (三体 [Sǎn Tǐ] in
+The novel *<a href="https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)">The Three Body Problem</a>* (三体 [Sān Tǐ] in
 Chinese) is moderately famous in sci-fi circles. The English translation won the [2015 Hugo Award for Best
 Novel](http://www.thehugoawards.org/hugo-history/2015-hugo-awards/) and to date it is the only novel in translation
 to have done so. [It's one of Barack Obama's favorite books](
