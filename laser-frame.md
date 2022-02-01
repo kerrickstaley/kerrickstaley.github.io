@@ -10,4 +10,5 @@ permalink: /laser-frame/
     <circle cx="50" cy="50" r="40" stroke="black" stroke-width="3" fill="red" />
 </svg>
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/svg.js/3.1.2/svg.min.js"></script>
 <script src="/lib/laser-frame/main.js"></script>
