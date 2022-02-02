@@ -8,7 +8,7 @@ permalink: /laser-frame/
 
 <a id="download">Download</a>
 
-<svg id="laser-frame" height="8000" width="8000">
+<svg id="laser-frame" height="1000mm" width="1000mm">
     <circle cx="50" cy="50" r="40" stroke="black" stroke-width="3" fill="red" />
 </svg>
 
