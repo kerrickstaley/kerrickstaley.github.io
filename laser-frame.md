@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Minimalist Laser Cut Picture Frame
+title: Laser Cut Picture Frame
 permalink: /laser-frame/
 ---
 
