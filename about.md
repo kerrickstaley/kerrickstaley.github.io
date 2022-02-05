@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+menu: main
 ---
 
 <img src="/images/profile_picture.jpg" width="250" style="float: right; margin: 0px 40px" />
