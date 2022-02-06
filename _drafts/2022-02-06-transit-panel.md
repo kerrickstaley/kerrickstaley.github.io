@@ -28,6 +28,7 @@ To mount it on the wall, I used the [Dockem Koala Wall Mount 2.0](https://www.am
 
 <p style="display: flex; flex-direction: column; align-items: center">
 <img src='/images/transit-panel/dockem-koala.jpg' width='500px'>
+<em>mount with tablet removed</em>
 </p>
 
 I routed the power cable using [these Monoprice cable clips](https://www.monoprice.com/product?p_id=5834).
