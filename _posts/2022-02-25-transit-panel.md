@@ -64,4 +64,4 @@ I used the [Fennec](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/) 
 ## Future Improvements
 At some point (maybe when it's warmer) I'm planning to add a row showing bike availability at the nearest [Citi Bike](https://citibikenyc.com/homepage) station. Citi Bike has a delightful and easy-to-use REST API. Speaking of weather, I'm also planning to add a row that shows the weather and current time.
 
-<em>Note: I've included some Amazon Affiliate links in this article, because why not? I was going to link to Amazon anyway. If you click these links I may receive a commission at no cost to you, yadda yadda.</em>
+<em>Note: I've included some Amazon Affiliate links in this article, because eh, why not? I was going to link to Amazon anyway. If you click these links I may receive a commission at no cost to you, yadda yadda.</em>
