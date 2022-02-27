@@ -61,6 +61,9 @@ I found the [Luxon](https://moment.github.io/luxon/#/) Javascript library really
 ### Browser
 I used the [Fennec](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/) browser from the F-Droid app store, which is a reskin of Firefox for Android. This was the only browser I found that behaved correctly when full-screened (hiding both the top and bottom system UI bars).
 
+## Reliability
+I've kept the tablet running continuously for about 4 months. Once or twice in that period, it's gotten into a bad state and needed a reboot. I've noticed no issues with burn-in on the screen. I'm hoping to get several years of use before the hardware needs replacement.
+
 ## Future Improvements
 At some point (maybe when it's warmer) I'm planning to add a row showing bike availability at the nearest [Citi Bike](https://citibikenyc.com/homepage) station. Citi Bike has a delightful and easy-to-use REST API. Speaking of weather, I'm also planning to add a row that shows the weather and current time.
 
