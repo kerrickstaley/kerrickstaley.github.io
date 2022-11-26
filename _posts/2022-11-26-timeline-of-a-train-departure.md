@@ -72,6 +72,8 @@ I hypothesize that the same data source feeds both the mrazza and "official" API
 
 That's all for now,[^6] but maybe in a future episode I'll revisit the data that we get from PATH's API. The Jupyter notebook where I did this analysis is [here](https://github.com/kerrickstaley/transit-panel/blob/main/analysis/Predicted%20vs%20actual%20departure.ipynb). The scraper that recorded the data is [here](https://github.com/kerrickstaley/transit-panel/blob/main/scripts/api_compare.py). To record the train departure time I used a simple Google Form (Google Forms records the timestamp when you submit a form).
 
+[Discussion on Hacker News](https://news.ycombinator.com/item?id=33755892)
+
 [^1]: There's a 2-minute buffer baked into the 10 minute walk time, so I only waited an extra 2 minutes here.[^5] You maybe noticed that I waited 4 minutes but the API's error only explained ~2 minutes. Can't let a technicality interrupt my narrative flow.
 
 [^2]: mrazza's API is currently down so I hosted it locally to collect data, but my transit panel doesn't use it.
