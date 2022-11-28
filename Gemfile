@@ -25,3 +25,5 @@ end
 
 # kramdown-parser-gfm is needed as a result of a Jekyll and/or Ruby update
 gem "kramdown-parser-gfm"
+
+gem "webrick", "~> 1.7"
