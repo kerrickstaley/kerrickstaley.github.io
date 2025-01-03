@@ -22,9 +22,9 @@ I've been using it for 3 months and I'm really happy with it. It feels great to 
 The rest of this post will explain how I made this thing, which I call a transit panel. It wasn't hard, and with a bit of HTML/Javascript knowledge and handiness you can make one of your own!
 
 ## Hardware
-I used an <a href="https://www.amazon.com/gp/product/B08BX7FV5L/ref=as_li_tl?ie=UTF8&tag=kerricksblog-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B08BX7FV5L&linkId=437cfdf6ec6a21ba5bf64e65b03542c0">Amazon Fire HD 10 tablet</a>. This tablet is cheap ($150 at time of writing, but frequently on sale for $110 or less) and has a large-ish screen, which is important because I need to be able to read the screen from 10 meters away. The web app isn't demanding and the system is always plugged in, so specs like processor and battery life don't matter. The app runs full-time so the lockscreen ads aren't an annoyance.
+I used an <a href="https://www.amazon.com/gp/product/B08BX7FV5L">Amazon Fire HD 10 tablet</a>. This tablet is cheap ($150 at time of writing, but frequently on sale for $110 or less) and has a large-ish screen, which is important because I need to be able to read the screen from 10 meters away. The web app isn't demanding and the system is always plugged in, so specs like processor and battery life don't matter. The app runs full-time so the lockscreen ads aren't an annoyance.
 
-To mount it on the wall, I used the [Dockem Koala Wall Mount 2.0](https://www.amazon.com/gp/product/B01BX5YU7Y/ref=as_li_tl?ie=UTF8&tag=kerricksblog-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01BX5YU7Y&linkId=45286916868c1995dd43996c61d66a28), which worked well. It can be screwed to the wall or adhered using Command Strips; I chose to use [these drywall anchors](https://www.homedepot.com/p/E-Z-Ancor-Twist-N-Lock-8-x-1-1-4-in-White-Nylon-Phillips-Flat-Head-75-Medium-Duty-Drywall-Anchors-with-Screws-20-Pack-25210/100140114) because Command Strips sometimes fall off after several months of use.
+To mount it on the wall, I used the [Dockem Koala Wall Mount 2.0](https://www.amazon.com/gp/product/B01BX5YU7Y), which worked well. It can be screwed to the wall or adhered using Command Strips; I chose to use [these drywall anchors](https://www.homedepot.com/p/E-Z-Ancor-Twist-N-Lock-8-x-1-1-4-in-White-Nylon-Phillips-Flat-Head-75-Medium-Duty-Drywall-Anchors-with-Screws-20-Pack-25210/100140114) because Command Strips sometimes fall off after several months of use.
 
 <p style="display: flex; flex-direction: column; align-items: center">
 <img src="/images/transit-panel/dockem-koala.jpg" width="500px">
@@ -49,7 +49,7 @@ Luckily, a true internet hero named Matthew Razza runs a [web service](https://g
 I could combine the approaches, using the live API and falling back to the schedule if there is no data, but for now the hardcoded schedule works well enough.
 
 ### Fonts
-I spent a ton of time trying to center the numbers vertically in their rows (e.g. the 4 in "leave in 4 min"). I would tweak the CSS to center it in Firefox, but then I would open it in Chrome on the same computer and it would look different, and the tablet would be different from both. 
+I spent a ton of time trying to center the numbers vertically in their rows (e.g. the 4 in "leave in 4 min"). I would tweak the CSS to center it in Firefox, but then I would open it in Chrome on the same computer and it would look different, and the tablet would be different from both.
 
 I thus learned the hard way that if you want your app's text to have a consistent appearance across platforms, you need to use a font from a font service like Google Fonts instead of relying on the browser's built-in font library.
 
@@ -66,5 +66,3 @@ I've kept the tablet running continuously for about 4 months. Once or twice in t
 
 ## Future Improvements
 At some point (maybe when it's warmer) I'm planning to add a row showing bike availability at the nearest [Citi Bike](https://citibikenyc.com/homepage) station. Citi Bike has a delightful and easy-to-use REST API. Speaking of weather, I'm also planning to add a row that shows the weather and current time.
-
-<em>Note: I've included some Amazon Affiliate links in this article, because eh, why not? I was going to link to Amazon anyway. If you click these links I may receive a commission at no cost to you, yadda yadda.</em>
