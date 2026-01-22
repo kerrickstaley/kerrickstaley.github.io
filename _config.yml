@@ -23,6 +23,7 @@ url: "https://kerrickstaley.com" # the base hostname & protocol for your site, e
 permalink: /:year/:month/:day/:title
 github_username:  kerrickstaley
 linkedin_username:  kerrick-staley
+twitter_username:  kerksta
 
 # Enable Google Analytics
 google_analytics: UA-100131146-1
