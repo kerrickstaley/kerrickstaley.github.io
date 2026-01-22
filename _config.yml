@@ -19,7 +19,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Kerrick Staley's blog and homepage, serving up juicy posts about programming,
   Mandarin, learning (machine and human), and more!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.kerrickstaley.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://kerrickstaley.com" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:year/:month/:day/:title
 github_username:  kerrickstaley
 linkedin_username:  kerrick-staley
