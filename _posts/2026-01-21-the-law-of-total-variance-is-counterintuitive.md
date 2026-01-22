@@ -3,7 +3,7 @@ layout: post
 title: The Law of Total Variance Is Counterintuitive
 categories: stats math
 ---
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
 The [law of total variance](https://en.wikipedia.org/wiki/Law_of_total_variance) states that for two random variables $$X$$ and $$Y$$,
 
