@@ -27,3 +27,8 @@ end
 gem "kramdown-parser-gfm"
 
 gem "webrick", "~> 1.7"
+
+# These gems were removed from Ruby's standard library in Ruby 3.4
+gem "csv"
+gem "base64"
+gem "bigdecimal"
