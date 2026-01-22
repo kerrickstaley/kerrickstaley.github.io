@@ -2,6 +2,7 @@
 layout: post
 title: The Law of Total Variance Is Counterintuitive
 categories: stats math
+image: /images/law-of-total-variance/high-var-in-middle.png
 ---
 <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
