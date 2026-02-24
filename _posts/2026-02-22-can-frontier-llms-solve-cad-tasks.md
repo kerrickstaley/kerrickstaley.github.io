@@ -41,6 +41,8 @@ I put each model in an agentic loop where it could call the simulator up to 10 t
 
 I also tried two other objects: a model of a pan from [Amazon Berkeley Objects](https://amazon-berkeley-objects.s3.amazonaws.com/index.html) and a mug from [Google Scanned Objects](https://research.google/blog/scanned-objects-by-google-research-a-dataset-of-3d-scanned-common-household-items/). I evaluated 7 LLMs and did 10 trials per (LLM x object) pair.
 
+[Code for this project is here.](https://github.com/kerrickstaley/llm-cad-mount)
+
 ## Results and commentary
 
 <table>
@@ -106,8 +108,6 @@ The biggest thing that could be improved is the grading of results, by checking 
 * Are there thin sections of the model which would be weak when printed?
 * How much weight does the model hold before deforming, using a [finite element analysis](https://en.wikipedia.org/wiki/Finite_element_method)?
 * Can the screw / nail holes in the mount be accessed by a screwdriver / hammer? (Define exclusion zones around the holes and see if they intersect the mount).
-
-Given this rubric one could fine-tune a model using RLVR to do this task, and see if this generalizes to other CAD and/or spatial reasoning tasks. More generally one could build environments for other CAD modeling tasks using MuJoCo.
 
 ## Related stuff
 
