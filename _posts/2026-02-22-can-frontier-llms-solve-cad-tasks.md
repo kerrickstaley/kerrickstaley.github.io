@@ -89,6 +89,17 @@ Creating the simulator and building the agentic harness was the bulk of the work
 
 One surprising bottleneck was convex decomposition. MuJoCo can only simulate objects composed of convex components, and so concave geometries have to be broken down into multiple convex geoms. The SOTA method for this is [CoACD](https://github.com/SarahWeiii/CoACD), and it's quite slow. Generating the above table took 15.9 hours of CoACD processing time on my potato-class Hetzner server (almost as long as the 21.8 hours spent calling the model providers).
 
+## Update 2026-04-08
+I printed [my favorite bike pump mount design (by Gemini 3.1 Pro)](https://kerrickstaley.com/ai-cad-design-mount-viz/task_002_mounting_bike_pump__google_gemini-3.1-pro-preview_2026-02-21T14:20:43Z.html) without any modification, and it works! The pump is now hanging out of the way in my closet.
+
+<p style="display: flex; justify-content: center">
+<img src="/images/can-frontier-llms-solve-cad-tasks/pump_mount_irl_1.jpg" width="300px">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="/images/can-frontier-llms-solve-cad-tasks/pump_mount_irl_2.jpg" width="300px">
+</p>
+
+Side note: The dots on the pump are reflective tracking stickers from an aborted attempt to scan it with a Creality Raptor blue laser scanner. I found that Luma AI was far easier and faster than the Creality software/hardware, and it produced a scan that was accurate enough to use, although I had to spend a while cleaning up the mesh in Blender.
+
 ## Future work
 
 I built a simple custom agent harness for this, but it's possible I could get better results using an off-the-shelf harness like Codex or Claude Code and turning my MuJoCo simulator into a CLI or MCP tool. These could provide a better system prompt and tools like memory to help keep the agent on-track.
