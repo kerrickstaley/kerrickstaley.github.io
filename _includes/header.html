@@ -18,6 +18,7 @@
         </label>
 
         <div class="trigger">
+          <a class="page-link" href="/ml-reading-list/">Reading List</a>
           {%- for path in page_paths -%}
             {%- assign my_page = site.pages | where: "path", path | first -%}
             <!-- See https://stackoverflow.com/questions/25789087/hide-a-page-in-jekyll-website-served-by-github -->
